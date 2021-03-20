@@ -15,7 +15,7 @@ portfolio project
 *WHEN I resize the page or view the site on various screens and devices
 *THEN I am presented with a responsive layout that adapts to my viewport
 
-[social solution services] (https://github.com/psurer/homework2)
+[social solution services] (https://github.com/psurer/portfolio)
 
-![Screen shot!](./screen-shot.png)
+![Screen shot!](./screenshot.png)
 
