@@ -1,4 +1,4 @@
-# homework2
+# portfolio
 portfolio project
 
 *GIVEN I need to sample a potential employee's previous work
