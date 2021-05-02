@@ -19,4 +19,3 @@ portfolio project
 
 ![Screen shot!](./assets/images/screenshot.jpg)
 
-
