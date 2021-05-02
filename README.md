@@ -17,5 +17,5 @@ portfolio project
 
 [social solution services] (https://github.com/psurer/portfolio)
 
-![Screen shot!](assets/images/screenshot.png)
+![Screen shot!](./screenshot.png)
 
