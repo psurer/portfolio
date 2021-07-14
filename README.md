@@ -1,3 +1,4 @@
+<img width="1772" alt="Screen Shot 2021-07-14 at 12 22 36 PM" src="https://user-images.githubusercontent.com/62962138/125606487-61609af4-f42e-4f43-8eb9-d8bc7c20bf57.png">
 # portfolio
 portfolio project
 
@@ -16,6 +17,3 @@ portfolio project
 * THEN I am presented with a responsive layout that adapts to my viewport
 
 [social solution services] (https://github.com/psurer/portfolio)
-
-![Screen shot!](./assets/images/screenshot.jpg)
-
